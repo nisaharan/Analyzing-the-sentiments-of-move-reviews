@@ -1,6 +1,6 @@
 # Sentiment-Analysis-for-Moview-review
 
-In this project, I performed sentiment analysis on movie reviews. The goal was to classify movie reviews as either positive or negative based on their content.
+In this project, I performed sentiment analysis on movie reviews using various classification algorithms. The goal was to classify movie reviews as either positive or negative based on their content.
 
 To accomplish this, I utilized the Natural Language Toolkit (NLTK) library. NLTK provided essential functionalities for preprocessing the text data and extracting meaningful features for classification.
 
